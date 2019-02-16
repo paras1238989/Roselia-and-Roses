@@ -1,6 +1,6 @@
 # Roselia-and-Roses
 
-************* Partially solved - Passed for only few test cases
+************* Partially solved - Passed for only few test cases*********************** Do let me know if complete solution found*******
 
 # Roselia and Roses
 Roselia loves roses. But roses are only available in the nth city. There are roads from each city to cities and these roads can only be utilized to move from city i to j city but not from city j  to city i for all 1≤i<j≤n . Roselia wants to maximize her happiness on the way she moves to the city n . Each city has a specific value of happiness quotient associated with it. Roselia is moody and her happiness is governed by a very specific rule:
